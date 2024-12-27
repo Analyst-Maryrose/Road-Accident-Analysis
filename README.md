@@ -22,6 +22,9 @@ Sort and Filter, Find and Replace, Text Function, Number Formatting, Data type, 
 - Good use of formatting and layout.
 - Use of insightful charts.
 - Analytical approach to the problem.
+  ### Here is the Pivot Table😄
+  ![](Pivot_Table_Accident.PNG)
+  
 
 ## Data Source
 This is not a real dataset. I sourced the dataset from Kaggle to demonstrate my use of Microsoft Excel in analyzing data.
@@ -61,7 +64,11 @@ The yearly and monthly trends showed that there is much casualty in 2021 compare
 - **More Hands-on Deck:** More officers should be employed and distributed to many locations most especially on weekends and festive periods. 
 - **Recognition and Awards:** Recognizing officers for their outstanding performance can motivate and inspire the team.
 - **Train Means of Transportation:** To reduce the number of cars on the road, trains should be built to discourage more cars on the roads. 
-- **Reasons for Unknown Data:** All information regarding the unknown data should be tracked down to help the stakeholders know how to tackle the casualty. 
+- **Reasons for Unknown Data:** All information regarding the unknown data should be tracked down to help the stakeholders know how to tackle the casualty.
+
+  ## Thank you😃
+  ![](Thank_you.png)
+  
 
 
 
